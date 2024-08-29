@@ -1,8 +1,7 @@
 # Hi, I'm Daniel!
 ![My GIF](https://github.com/Daniel20140101/Daniel/blob/main/Elements/jake-comingheremoreoftenlately.gif?raw=true)
 
-![My_image](Elements/360_F_484647325_dxjyDjrWALO9vqMlWTuREndiFmGwXY8A.jpg)
-## 👤 About Me
+<img src="Elements/360_F_484647325_dxjyDjrWALO9vqMlWTuREndiFmGwXY8A.jpg" alt="Diagram of the Process" width="20">## 👤 About Me
 I'm a passionate programmer and designer who loves to create and innovate. With some knowledge about software development and a flair for design, I aim to merge creativity with technology.
 
 ## 🔧 Technologies & Tools
