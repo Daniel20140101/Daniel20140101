@@ -9,7 +9,7 @@ I'm a passionate programmer and designer who loves to create and innovate. With 
 - **Design Tools:** Blender, GIMP, Krita, Canva
 - **Productivity:** Notion, ChatGPT
 
-### GitHub Stats
+### 📊GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel20140101&show_icons=true&theme=nord)
 
 ### 📫How to Reach Me
