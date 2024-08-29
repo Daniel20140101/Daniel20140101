@@ -1,7 +1,5 @@
 # Hi, I'm Daniel 👋
-
-### Here’s an animated GIF about me!
-![My GIF](https://your-gif-url.com/animated.gif)
+![My GIF](https://github.com/Daniel20140101/Daniel/blob/main/Elements/jake-comingheremoreoftenlately.gif?raw=true)
 
 ### 👨‍💻 About Me
 I'm a passionate programmer and designer who loves to create and innovate. With a strong foundation in software development and a flair for design, I aim to merge creativity with technology.
