@@ -10,7 +10,7 @@ I'm a passionate programmer and designer who loves to create and innovate. With 
 - **Productivity:** Notion, ChatGPT
 
 ### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel20140101&show_icons=true&theme=onedark)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel20140101&show_icons=true&theme=nord)
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [Daniel's LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
