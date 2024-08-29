@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel!
 ![My GIF](https://github.com/Daniel20140101/Daniel/blob/main/Elements/jake-comingheremoreoftenlately.gif?raw=true)
 
 ### 👤 About Me
