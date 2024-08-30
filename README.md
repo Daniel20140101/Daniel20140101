@@ -17,6 +17,8 @@ I'm a passionate programmer and designer who loves to create and innovate. With 
 - **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)
 
 ### ✏️What I’m Working On
-![My_Gif](Elements/af07ed777318ec7c474804dbf7afdffb.gif)
 - Enhancing my skills in programming and designing.
 - Exploring more about computers, Internet, etc.
+
+
+![My_Gif](Elements/af07ed777318ec7c474804dbf7afdffb.gif)
